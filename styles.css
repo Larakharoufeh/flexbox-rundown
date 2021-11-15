@@ -1,5 +1,5 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
 
 body{
     background-color: limegreen;
@@ -94,6 +94,7 @@ iframe {
 }
 figcaption {
     text-align:center;
+    font-family: 'Praise', cursive;
 }
 /* section 5 media items */
 
