@@ -132,5 +132,11 @@ li {
     border-radius: 10px;
     background-color:aliceblue
 }
+.media-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap:wrap;
+    padding: 15px 25px 15px 15px;
 
+}
 
