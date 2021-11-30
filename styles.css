@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
 
 body{
-    background-color: limegreen;
+    background-color:#F2F2F2;
 }
 
 /* header sytles */
 
 header {
-    background-color: hotpink;
+    background-color: #F29F05;
     padding: 10px 0px 10px 0px;
     
     
@@ -55,7 +55,7 @@ header {
 /* section 2 center item */
 
 .section-two {
-    background-color: orangered;
+    background-color:#BF0426;
     height: 700px;
     display:flex;
     align-items:center;
@@ -65,7 +65,7 @@ header {
 /* section 3 youtube video */
 
 .section-three {
-    background-color: lightcoral;
+    background-color:#D95A11;
     height: 800px;
     display: flex;
     flex-wrap:wrap;
@@ -84,7 +84,7 @@ iframe {
 
 .section-four {
 
-    background-color: darkslateblue;
+    background-color:#BF0426;
     height: 500px;
     display:flex;
     flex-wrap:wrap;
@@ -99,12 +99,12 @@ figcaption {
 /* section 5 media items */
 
 .section-five {
-    background-color: goldenrod;
+    background-color:#D95A11;
     
 }
 
 footer {
-    background-color: rebeccapurple;
+    background-color: #F29F05;
     height: 30px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva,
@@ -183,7 +183,7 @@ button:active {
     transform: translateY(4px);
 }
 .button-one-section {
-    background-color:cornflowerblue;
+    background-color:#BF0426;
     padding: flex;
     justify-content: center;
     align-items: center;
