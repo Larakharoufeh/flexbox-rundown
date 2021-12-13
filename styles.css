@@ -183,12 +183,14 @@ button:active {
 }
 .button-one-section {
     background-color:#BF0426;
-    padding: flex;
+    padding: 20px 0px;
+    display: flex;
     justify-content: center;
     align-items: center;
 
 }
 .button-top-img{
+    align-items: center;
     border:3px solid white;
     border-radius: 10px;
     box-shadow:10px 10px 20px black;
